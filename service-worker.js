@@ -1,7 +1,7 @@
 const CACHE_NAME = 'recipe-cards-v1';
 const urlsToCache = [
   '/',
-  '/recipebeta_v2.html',
+  '/index.html',
   '/manifest.json'
 ];
 
